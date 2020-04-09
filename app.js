@@ -35,6 +35,7 @@ $("#AddBtn").click(function () {
 
 $("#clearBtn").click(function () { 
     console.log("works");
+    $("#totexp span").text('0.00')
     
     eList.empty();
 });
