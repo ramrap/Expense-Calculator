@@ -1,2 +1,2 @@
 # Expense-Calculator
-expense using ionic
+This app is used to Calculate your daily expenses. Stay home! Corona go!
